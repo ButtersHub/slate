@@ -31,7 +31,7 @@ Content-Type: application/json
   "status": "success",
   "statusString": "uploaded finished with no errors",
   "accountId": "f9b3c20c-9209-401e-a151-3afef52b6523",
-  "inputType": "URL"
+  "inputType": "URL",
   "fileName": "SampleVideo_1280x720_1mb_233125586.mp4",
   "analyzeProgress": 100,
   "sourceThumbnail": "https://etranscoder.s3.amazonaws.com/jobs/57fde25/sources/0000fc0697.jpg",
@@ -117,7 +117,7 @@ Content-Type: application/json
   "status": "success",
   "statusString": "uploaded finished with no errors",
   "accountId": "f9b3c20c-9209-401e-a151-3afef52b6523",
-  "inputType": "S3"
+  "inputType": "S3",
   "fileName": "SampleVideo_1280x720_1mb_233125586.mp4",
   "analyzeProgress": 100,
   "sourceThumbnail": "https://etranscoder.s3.amazonaws.com/jobs/57fde25/sources/0000fc0697.jpg",
@@ -198,7 +198,7 @@ Content-Type: application/json
   "status": "success",
   "statusString": "uploaded finished with no errors",
   "accountId": "f9b3c20c-9209-401e-a151-3afef52b6523",
-  "inputType": "GCS"
+  "inputType": "GCS",
   "fileName": "SampleVideo_1280x720_1mb_233125586.mp4",
   "analyzeProgress": 100,
   "sourceThumbnail": "https://etranscoder.s3.amazonaws.com/jobs/57fde25/sources/0000fc0697.jpg",
@@ -279,7 +279,7 @@ Content-Type: application/json
   "status": "success",
   "statusString": "uploaded finished with no errors",
   "accountId": "f9b3c20c-9209-401e-a151-3afef52b6523",
-  "inputType": "Azure"
+  "inputType": "Azure",
   "fileName": "SampleVideo_1280x720_1mb_233125586.mp4",
   "analyzeProgress": 100,
   "sourceThumbnail": "https://etranscoder.s3.amazonaws.com/jobs/57fde25/sources/0000fc0697.jpg",
@@ -357,7 +357,7 @@ Content-Type: application/json
   "status": "success",
   "statusString": "uploaded finished with no errors",
   "accountId": "f9b3c20c-9209-401e-a151-3afef52b6523",
-  "inputType": "Aspera"
+  "inputType": "Aspera",
   "fileName": "SampleVideo_1280x720_1mb_233125586.mp4",
   "analyzeProgress": 100,
   "sourceThumbnail": "https://etranscoder.s3.amazonaws.com/jobs/57fde25/sources/0000fc0697.jpg",
